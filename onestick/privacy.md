@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test
+icon: onestick/icon.png
+---
+
 ## OneStick Privacy Policy
 
 LWare built the OneStick app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.

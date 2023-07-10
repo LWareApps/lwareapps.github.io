@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Test
-icon: onestick/icon.png
+title: Test title
+description: Test description
+icon: icon.png
 ---
 
 ## OneStick Privacy Policy

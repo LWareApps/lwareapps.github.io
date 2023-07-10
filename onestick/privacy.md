@@ -2,7 +2,7 @@
 layout: default
 title: Test title
 description: Test description
-icon: icon.png
+icon: /icon.png
 ---
 
 ## OneStick Privacy Policy

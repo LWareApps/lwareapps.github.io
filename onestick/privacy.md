@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Test title
-description: Test description
-icon: /icon.png
+title: OneStick
+description: Use custom stickers in WhatsApp, Telegram and Signal and share them with your friends
+icon: /onestick/icon.png
 ---
 
 ## OneStick Privacy Policy

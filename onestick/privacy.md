@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OneStick
-description: Use custom stickers in WhatsApp, Telegram and Signal and share them with your friends
+description: Create custom stickers for WhatsApp, Telegram and Signal and share them with your friends!
 icon: /onestick/icon.png
 ---
 
